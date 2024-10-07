@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZMJunwakaka
 - 👀 I’m interested in anime
-- 🌱 I’m currently learning java and C#
+- 🌱 I’m currently learning Java and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zmj121493567@163.com
 
